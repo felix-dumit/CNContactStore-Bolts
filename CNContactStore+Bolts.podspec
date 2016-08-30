@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '8.0'
   s.name = "CNContactStore+Bolts"
   s.summary = "Bolts wrapper for CNContactStore callback and error pointers"
-  s.version = "0.1.2"
+  s.version = "0.2.0"
   s.license = { :type => "MIT", :file => "LICENSE" }
 
   s.author = { "Felix Dumit" => "felix.dumit@gmail.com" }
