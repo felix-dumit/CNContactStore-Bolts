@@ -1,9 +1,8 @@
 //
 //  CNContactStore+Bolts.h
-//  Umwho
 //
 //  Created by Felix Dumit on 10/21/15.
-//  Copyright © 2015 Umwho. All rights reserved.
+//  Copyright © 2016. All rights reserved.
 //
 
 #import <Contacts/Contacts.h>
